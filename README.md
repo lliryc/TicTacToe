@@ -1,2 +1,2 @@
 # TicTacToe
-Simple TicTacToe game based on ASP.NET SignalR and ReactJS
+TicTacToe game based on ASP.NET SignalR and ReactJS
